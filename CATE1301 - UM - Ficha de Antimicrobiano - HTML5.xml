@@ -1,0 +1,1247 @@
+﻿<?xml version='1.0' encoding='UTF-8' ?>
+<Relatorios>
+  <Tabelas>
+    <Tabela nm_tabela="W_RELATORIO">
+      <campos> 
+        <campo nm_atributo="CD_CGC_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_PAIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_CLASSIF_RELAT_WHEB" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_PAIS" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_RELATORIO_WHEB" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_VERSION" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_ACTION_NAME" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PROCEDURE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REPORT_TITLE_CUSTOM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_LAST_MODIFICATION" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_AUTO_AJUSTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CHAMADA_DIRETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ETIQUETA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_EXCEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_HTML" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_TEXTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FILTRO_WORD" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_BASE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_GERAR_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_PAPEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_RELATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_MOD_IMPL" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_MODULO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_VERSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESPACO_COLUNA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_LARGURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_DIR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_ESQ" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_INF" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MARGEM_SUP" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TITULO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_CGC_CLIENTE="04612990000331" CD_CLASSIF_RELAT="CATE" CD_CLASSIF_RELAT_PAIS="" CD_CLASSIF_RELAT_WHEB="WATE" CD_PAIS="" CD_RELATORIO="1301" CD_RELATORIO_PAIS="" CD_RELATORIO_WHEB="2889" CD_VERSION="30962" DS_ACTION_NAME="" DS_COR_FUNDO="clWhite" DS_PROCEDURE="" DS_REPORT_TITLE_CUSTOM="" DT_ATUALIZACAO="23/01/2025 11:29:00" DT_LAST_MODIFICATION="23/01/2025 11:29:00" IE_AJUSTAR_TAMANHO="" IE_AUTO_AJUSTE="" IE_BORDA_DIR="S" IE_BORDA_ESQ="S" IE_BORDA_INF="S" IE_BORDA_SUP="S" IE_CHAMADA_DIRETA="" IE_ETIQUETA="N" IE_FILTRO_EXCEL="S" IE_FILTRO_HTML="S" IE_FILTRO_TEXTO="S" IE_FILTRO_WORD="S" IE_GERAR_BASE="" IE_GERAR_RELATORIO="N" IE_IMPRIME_VAZIO="M" IE_ORIENTACAO="R" IE_TIPO_PAPEL="A4" IE_TIPO_RELATORIO="" NM_TABELA="" NM_USUARIO="UNI120960" NR_SEQ_MOD_IMPL="" NR_SEQ_MODULO="15" NR_SEQ_ORDEM_SERV="" NR_SEQUENCIA="2642851" NR_VERSAO="" QT_ALTURA="" QT_COLUNA="1" QT_ESPACO_COLUNA="0" QT_LARGURA="" QT_MARGEM_DIR="7" QT_MARGEM_ESQ="7" QT_MARGEM_INF="10" QT_MARGEM_SUP="5" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_TITULO><![CDATA[HGU -  Ficha de Antimicrobiano - HTML]]></DS_TITULO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELATORIO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FOOTER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_HEADER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_ALTERNA_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BANDA_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DIRECTION" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FUNDO_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_PRIMEIRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIME_VAZIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_REIMPRIME_NOVA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TABELA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA_SUPERIOR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_MAX_REGISTRO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_REGRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="23/01/2025 11:09:19" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="S" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="A" IE_TIPO_BANDA="C" NM_TABELA="" NM_USUARIO="UNI120960" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="5213025" QT_ALTURA="220" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[SELECT DISTINCT
+       cpm.nr_atendimento,
+       m.qt_peso_kg,
+       substr(tasy.obter_desc_setor_atend(cpm.cd_setor_atendimento),1,100) ds_setor_atendimento,
+       substr(tasy.obter_desc_cid(tasy.obter_cid_atendimento(cpm.nr_atendimento, 'P')),1,60) ds_diagnostico,
+       p.nr_prontuario,
+       p.nm_paciente,
+       cpm.nr_sequencia,
+       p.ds_anos_meses_dias,
+       p.ie_sexo,
+       p.ds_clinica,
+       p.ds_convenio,
+       p.cd_usuario_convenio,
+       cpm.cd_medico,
+       substr(tasy.obter_nome_pf(cpm.cd_medico),1,90) nm_medico,
+       cpm.cd_medico,
+       cpm.dt_liberacao,
+       tasy.obter_nome_medico(cpm.cd_medico, 'NCD') nm_medico_prescritor    
+   FROM 
+       material m,
+       cpoe_material cpm,
+       tasy.atendimento_paciente_v p,
+       atendimento_paciente a,
+
+       table(lista_pck.obter_lista(cpoe_obter_seq_anterior_rel(:nr_atendimento,
+                  'M',:ds_imprimi_medicamento,:ie_liberacao))) b
+   WHERE   cpm.cd_pessoa_fisica = p.cd_pessoa_fisica
+   AND  cpm.nr_atendimento = p.nr_atendimento
+   AND  p.nr_atendimento = a.nr_atendimento
+   AND  cpm.nr_atendimento = a.nr_atendimento
+   AND  m.cd_material = cpm.cd_material
+   AND  m.cd_medicamento is not null
+  -- AND cpm.qt_dias_solicitado is not null
+   AND  cpm.nr_atendimento = :nr_atendimento
+AND ((:ds_imprimi_medicamento <> 'N') AND(b.nr_registro = cpm.nr_sequencia))]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Cabeçalho]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="31/08/2023 19:34:48" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="I" IE_TIPO_BANDA="D" NM_TABELA="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="5213026" QT_ALTURA="18" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Quebra]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clWhite" DS_COR_QUEBRA="clWhite" DS_OBSERVACAO="" DT_ATUALIZACAO="31/08/2023 20:12:34" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="A" IE_TIPO_BANDA="S" NM_TABELA="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="3" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="5213027" QT_ALTURA="140" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[SELECT DISTINCT
+       cpm.nr_sequencia nr_seq_item_cpoe,
+       cpm.qt_dose_total_periodo,
+       cpm.cd_unidade_medida,
+       substr(tasy.obter_desc_via(m.ie_via_aplicacao),1,100)via_adm,
+       substr(tasy.obter_desc_intervalo(cpm.cd_intervalo),1,100)intervalo,
+       substr(tasy.obter_desc_microorganismo(cpm.cd_microorganismo_cih),1,100)microorganismo_cih,
+       substr(tasy.obter_amostra_material(cpm.cd_amostra_cih),1,100)amostra_cih,
+       substr(tasy.obter_desc_topografia(cpm.cd_topografia_cih),1,100)topografia_cih,
+           case when cpm.ie_origem_infeccao = 'C' then 'Comunitária'
+                when cpm.ie_origem_infeccao = 'H' then 'Hospitalar'
+                     end ie_origem_infeccao,
+           case when cpm.ie_objetivo = 'C' then 'Profilático clínico'
+                when cpm.ie_objetivo  = 'D' then 'Terapêutico Dirigido'
+                when cpm.ie_objetivo = 'F' then 'Profilático'
+                when cpm.ie_objetivo  = 'E' then 'Terapêutico Empírico'
+                when cpm.ie_objetivo = 'N' then 'Não se aplica'
+                when cpm.ie_objetivo = 'P' then 'Profilático cirúrgico'
+                when cpm.ie_objetivo = 'T' then 'Terapêutico'
+                     end ie_objetivo,
+           case when cpm.ie_indicacao = 'A' then 'Dirigido baseado em antibiograma'
+                when cpm.ie_indicacao = 'C' then 'Dirigido baseado em cultura'
+                when cpm.ie_indicacao = 'N' then 'Empirido sem cultura'
+                when cpm.ie_indicacao = 'S' then 'Empirido com cultura solicitada'
+                     end ie_indicacao,
+                         substr(tasy.obter_amostra_material(cpm.cd_amostra_cih),1,200) ds_mostra,
+                         m.cd_material,
+                         m.ds_material,
+                         cpm.qt_dose,
+                         cpm.cd_intervalo,
+                         cpm.qt_dias_solicitado,
+                         cpm.ds_justificativa,
+                         cpm.dt_liberacao,
+                         tasy.obter_nome_medico(cpm.cd_medico,'NCD') nm_medico_prescritor                      
+                    FROM 
+                         material m,cpoe_material cpm,
+                         atendimento_paciente atend,
+                         
+             table(lista_pck.obter_lista(cpoe_obter_seq_anterior_rel(:nr_atendimento,
+                   'M',:ds_imprimi_medicamento,:ie_liberacao))) b
+
+                    WHERE   
+                            cpm.nr_atendimento = atend.nr_atendimento
+                            AND cpm.cd_material = m.cd_material
+                            AND m.cd_medicamento is not null
+                          AND cpm.dt_suspensao is null
+                            AND cpm.nr_atendimento = :nr_atendimento
+              and ((:ds_imprimi_medicamento <> 'N') AND(b.nr_registro = cpm.nr_sequencia))
+                            AND (((:ie_liberacao = 'S') AND (cpm.dt_liberacao is not null)) 
+                OR((((:ie_liberacao = 'N') AND ((cpm.dt_inicio between :dt_inicial and :dt_final) 
+                  OR (cpm.dt_fim between :dt_inicial and :dt_final) 
+                  OR (cpm.dt_fim is null and cpm.dt_inicio < :dt_inicial) 
+                  OR (cpm.dt_fim > :dt_inicial and cpm.dt_inicio < :dt_inicial)))) 
+                  AND ((nvl(:ie_imprimi_suspensos, 'S') = 'S') 
+                      OR ((nvl(:ie_imprimi_suspensos, 'S') = 'N') 
+                    AND ((cpoe_obter_dt_suspensao(cpm.nr_sequencia,'M') is null) 
+                         OR (cpoe_obter_dt_suspensao(cpm.nr_sequencia,'M') >= sysdate))))))
+AND cpoe_funcao_prescr_liberada(:cd_perfil_p, cpm.nm_usuario_nrec) = 'S']]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Antimicrobiano]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="31/08/2023 19:36:05" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="A" IE_TIPO_BANDA="F" NM_TABELA="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="5213028" QT_ALTURA="18" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Assinatura]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+        <registro DS_COR_FOOTER="clWhite" DS_COR_FUNDO="clWhite" DS_COR_HEADER="clSilver" DS_COR_QUEBRA="$00E5E5E5" DS_OBSERVACAO="" DT_ATUALIZACAO="31/08/2023 19:36:37" IE_ALTERNA_COR_FUNDO="N" IE_BANDA_PADRAO="S" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_DIRECTION="" IE_FUNDO_TRANSPARENTE="" IE_IMPRIME_PRIMEIRO="N" IE_IMPRIME_VAZIO="N" IE_QUEBRA_PAGINA="N" IE_REIMPRIME_NOVA_PAGINA="N" IE_SITUACAO="A" IE_TIPO_BANDA="R" NM_TABELA="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA_SUPERIOR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="5213029" QT_ALTURA="18" QT_MAX_REGISTRO="" >
+          <DS_SQL><![CDATA[select	obter_nome_medico(cpm.cd_medico,'NCD') nm_medico_prescritor
+from	cpoe_material cpm
+
+where	cpm.nr_atendimento = :nr_atendimento]]></DS_SQL>
+>
+          <DS_REGRA><![CDATA[]]></DS_REGRA>
+>
+          <DS_BANDA><![CDATA[Rodapé]]></DS_BANDA>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_CAMPO">
+      <campos> 
+        <campo nm_atributo="DS_COR_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_FUNDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_COR_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ESTILO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_TIPO_FONTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_AJUSTAR_TAMANHO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAMENTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALINHAR_BANDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ALTERA_VALOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_DIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_ESQ" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_INF" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_BORDA_SUP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_CAMPO_QUEBRA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATAMATRIX_MODULE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_DATE_TYPE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_HUMANO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_INFO_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_METODO_ESTENDER" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_POSICAO_LEGENDA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_QUEBRA_PAGINA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SENSIVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_SITUACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_BARCODE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="IE_TOTALIZAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TRANSPARENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ZERA_APOS_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_TIME_ZONE_ATTRIBUTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_APRESENTACAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOGO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="PR_ALTURA_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ALTURA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_ESQUERDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_FONTE_BARCODE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_FONTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TOPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_LABEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_LEITO_PAC_PRESCR" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="29" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21660884" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="240" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="120" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Leito]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_ATENDIMENTO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21660885" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="633" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="10" QT_TOPO="65" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Atendimento]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="01/03/2024 14:35:27" IE_AJUSTAR_TAMANHO="S" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="S" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="28" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI11161" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661042" PR_ALTURA_BARCODE="50" QT_ALTURA="45" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="13" >
+          <DS_SQL><![CDATA[select im_banco 
+from imagem_banco
+where nr_sequencia = 7]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Logo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661043" PR_ALTURA_BARCODE="50" QT_ALTURA="20" QT_ESQUERDA="250" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="12" QT_TOPO="40" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Ficha Controle de Antimicrobianos]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Titutlo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_SEQUENCIA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="22" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661044" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="425" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Prescrição]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="12" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661045" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="140" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Cod Benef]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Cod usuário]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661046" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Data Nasc.]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Data Nasc]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_ANOS_MESES_DIAS" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661047" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="75" QT_FONTE_BARCODE="100" QT_TAMANHO="90" QT_TAM_FONTE="8" QT_TOPO="100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Data Nasc]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="IE_SEXO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661048" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="160" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Sexo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_CLINICA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="26" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661049" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="425" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="140" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Clinica]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661050" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="120" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Setor]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Setor]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_SETOR_ATENDIMENTO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="11" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661051" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="75" QT_FONTE_BARCODE="100" QT_TAMANHO="350" QT_TAM_FONTE="8" QT_TOPO="120" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Setor]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="CD_USUARIO_CONVENIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="13" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661052" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="75" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="140" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Cod usuário]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_CONVENIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="15" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661053" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="75" QT_FONTE_BARCODE="100" QT_TAMANHO="400" QT_TAM_FONTE="8" QT_TOPO="160" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Convenio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DT_LIBERACAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="20" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661054" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="425" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Dt Prescrição]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="19" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661055" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Lib Médico]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Dt liberação Medico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="14" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661056" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="160" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Convênio]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Convenio]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="23" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661057" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="120" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Prontuário]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Prontuario]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661058" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Paciente]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NM_PACIENTE" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661059" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="75" QT_FONTE_BARCODE="100" QT_TAMANHO="250" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Paciente]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_PRONTUARIO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="24" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661060" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="425" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="120" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Prontuario]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="17" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661061" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="130" QT_TAM_FONTE="8" QT_TOPO="180" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Diagnóstico de Base: ]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Diagnostico de Base]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="25" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661062" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="140" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Clínica:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Clinica]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_DIAGNOSTICO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="18" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661063" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="130" QT_FONTE_BARCODE="100" QT_TAMANHO="500" QT_TAM_FONTE="8" QT_TOPO="180" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Diagnostico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="21" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661064" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[N_Sequência]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Prescricao]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="27" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661065" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="350" QT_FONTE_BARCODE="100" QT_TAMANHO="70" QT_TAM_FONTE="8" QT_TOPO="160" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Peso]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Lb Peso]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="QT_PESO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="28" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661066" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="425" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="160" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Peso]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="2" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_ATENDIMENTO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="3" NR_SEQ_BANDA="5213025" NR_SEQ_LOGO="" NR_SEQUENCIA="21661067" PR_ALTURA_BARCODE="50" QT_ALTURA="55" QT_ESQUERDA="610" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="13" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Atend Barras]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clWhite" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 12:14:05" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO=" NR_SEQUENCIA_ITEM_CPOE" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="5213026" NR_SEQ_LOGO="" NR_SEQUENCIA="21661068" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="1" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Seq Item CPOE]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_AMOSTRA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="23" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661069" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="200" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="110" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Amostra]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="22" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661070" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="110" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Amostra:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Amostra]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clSilver" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="X" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="1" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661071" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="714" QT_TAM_FONTE="10" QT_TOPO="-15" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Antimicrobiano solicitado                            Dose    Unid.Med    Intervalo             Dias          Via              Qtd.Disp]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Antimicrobiano]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="TOPOGRAFIA_CIH" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="15" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661072" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="80" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="50" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[topografia]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="IE_ORIGEM_INFECCAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="17" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661073" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="135" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="65" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Origem infecção]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="IE_INDICACAO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="19" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661074" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="80" QT_FONTE_BARCODE="100" QT_TAMANHO="250" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Indicação]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="12" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661075" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="35" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Objetivo do Uso:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Objetivo do Uso:]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="14" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661076" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="50" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Topografia:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[topografia]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="16" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661077" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="65" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Origem Infecção:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Origem infecção]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="18" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661078" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="80" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Indicação:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Indicação]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 18:31:41" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="I" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="NR_SEQ_ITEM_CPOE" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="200" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661079" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="700" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Seq item cpoe]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_MATERIAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="3" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661080" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="50" QT_FONTE_BARCODE="100" QT_TAMANHO="250" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Descrição Material]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="QT_DOSE" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661081" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="280" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="3" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Dose]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="INTERVALO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661082" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="400" QT_FONTE_BARCODE="100" QT_TAMANHO="150" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Intervalo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="VIA_ADM" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="8" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661083" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="540" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Via adm]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="CD_UNIDADE_MEDIDA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="-8" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661084" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="340" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Unid.Med]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="N" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="IE_OBJETIVO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="13" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661085" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="115" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="35" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Objetivo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="20" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661086" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="95" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Microorganismo:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Microorganismo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="MICROORGANISMO_CIH" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="21" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661087" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="115" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="95" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Microorganismo]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="10" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661088" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="3" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="15" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Justificativa:]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Justificativa]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 20:02:38" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="DS_JUSTIFICATIVA" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="11" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661089" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="115" QT_FONTE_BARCODE="100" QT_TAMANHO="600" QT_TAM_FONTE="8" QT_TOPO="15" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Justificativa]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Ds Justificativa]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="QT_DIAS_SOLICITADO" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661090" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="500" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Dias]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="QT_TOTAL_DISPENSAR" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="9" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661091" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="680" QT_FONTE_BARCODE="100" QT_TAMANHO="50" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Qtd Disp]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="N" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 12:20:08" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="0" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="CD_MATERIAL" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="2" NR_SEQ_BANDA="5213027" NR_SEQ_LOGO="" NR_SEQUENCIA="21661097" PR_ALTURA_BARCODE="50" QT_ALTURA="15" QT_ESQUERDA="5" QT_FONTE_BARCODE="100" QT_TAMANHO="100" QT_TAM_FONTE="8" QT_TOPO="2" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Material]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="S" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="28" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="3" NR_SEQ_BANDA="5213028" NR_SEQ_LOGO="" NR_SEQUENCIA="21661092" PR_ALTURA_BARCODE="50" QT_ALTURA="100" QT_ESQUERDA="400" QT_FONTE_BARCODE="100" QT_TAMANHO="200" QT_TAM_FONTE="8" QT_TOPO="503" >
+          <DS_SQL><![CDATA[select  c.im_assinatura
+from  usuario_assinatura c,
+  usuario b
+where  b.cd_pessoa_fisica =  :cd_medico_p
+and  b.nm_usuario = c.nm_usuario_atual(+)
+and  nvl(b.ie_situacao,'A') = 'A'
+and  rownum = 1]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[assin]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="6" NR_SEQ_BANDA="5213029" NR_SEQ_LOGO="" NR_SEQUENCIA="21661093" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="360" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="-150" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Assinatura Médico(a)]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Assinatura do Médico Prescritor]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="7" NR_SEQ_BANDA="5213029" NR_SEQ_LOGO="" NR_SEQUENCIA="21661094" PR_ALTURA_BARCODE="50" QT_ALTURA="17" QT_ESQUERDA="360" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="-90" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Assinatura Farmacêutico(a)]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Ass Farmaceutico]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="C" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="S" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="4" NR_SEQ_BANDA="5213029" NR_SEQ_LOGO="" NR_SEQUENCIA="21661095" PR_ALTURA_BARCODE="50" QT_ALTURA="50" QT_ESQUERDA="30" QT_FONTE_BARCODE="100" QT_TAMANHO="300" QT_TAM_FONTE="8" QT_TOPO="-150" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[              Franklin Simoes de Santana Filho (CRM 3505)
+                        Médico(a) CCIH]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Assinatura_Medico_CCIH]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro DS_COR_FONTE="clBlack" DS_COR_FUNDO="clWhite" DS_COR_LABEL="clWhite" DS_ESTILO_FONTE="" DS_OBSERVACAO="" DS_TIPO_FONTE="Arial" DT_ATUALIZACAO="31/08/2023 10:39:13" IE_AJUSTAR_TAMANHO="N" IE_ALINHAMENTO="E" IE_ALINHAR_BANDA="N" IE_ALTERA_VALOR="N" IE_BORDA_DIR="N" IE_BORDA_ESQ="N" IE_BORDA_INF="N" IE_BORDA_SUP="N" IE_CAMPO_QUEBRA="N" IE_DATAMATRIX_MODULE="" IE_DATE_TYPE="" IE_ESTENDER="N" IE_HUMANO_BARCODE="S" IE_INFO_PACIENTE="" IE_METODO_ESTENDER="" IE_POSICAO_LEGENDA="" IE_QUEBRA_PAGINA="N" IE_SENSIVEL="" IE_SITUACAO="" IE_TIPO_BARCODE="CODE128_C" IE_TIPO_CAMPO="1" IE_TOTALIZAR="N" IE_TRANSPARENTE="S" IE_ZERA_APOS_IMPRIMIR="N" NM_ATRIBUTO="" NM_TIME_ZONE_ATTRIBUTE="" NM_USUARIO="UNI8647" NR_SEQ_APRESENTACAO="5" NR_SEQ_BANDA="5213029" NR_SEQ_LOGO="" NR_SEQUENCIA="21661096" PR_ALTURA_BARCODE="50" QT_ALTURA="150" QT_ESQUERDA="30" QT_FONTE_BARCODE="100" QT_TAMANHO="600" QT_TAM_FONTE="8" QT_TOPO="-100" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_CONTEUDO><![CDATA[Data da liberação da CCIH : _______/_______/_________.
+     
+Dias Autorizados: _______.
+(   ) Autorizado          (   ) negado         (   ) Alteração
+
+Obs:_______________________________________________]]></DS_CONTEUDO>
+>
+          <DS_EXPRESSAO><![CDATA[]]></DS_EXPRESSAO>
+>
+          <DS_CAMPO><![CDATA[Dados Lib CCIH]]></DS_CAMPO>
+>
+          <DS_LABEL><![CDATA[]]></DS_LABEL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_CAMPO_LONGO">
+      <campos> 
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_BANDA_RELAT_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="CLOB"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_PARAMETRO">
+      <campos> 
+        <campo nm_atributo="CD_DOMINIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="CD_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_ALIAS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA_BKP" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_VALOR_PARAMETRO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_FORMA_APRESENT" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_FORMA_PASSAGEM" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_MULTI_LINHA" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OBRIGATORIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_ORIGEM_INFORMACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_ATRIBUTO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_TIPO_IN" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_LINHA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_APRESENT" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_LOCALIZAR" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_DESLOC_DIREITA_HTML" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAMANHO_CAMPO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_BYTE" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_TAM_SPAN" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="VL_PADRAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="VL_PADRAO_TESTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_SQL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_MASCARA" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOMINIO="" CD_PARAMETRO="NR_ATENDIMENTO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Atendimento para impressão" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="31/08/2023 11:06:37" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="NUMBER" IE_TIPO_IN="" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="60" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817887" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="80" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DS_IMPRIMI_MEDICAMENTO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Imprimir Soluções e Medicamentos" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="31/08/2023 11:03:34" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="N" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="N" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="81" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817888" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="255" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="N" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="IE_LIBERACAO" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Liberação" DS_VALOR_PARAMETRO="S,N" DT_ATUALIZACAO="31/08/2023 11:04:25" IE_FORMA_APRESENT="cb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="N" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="N" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="89" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817904" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="255" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_FINAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data de fim do dia" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="31/08/2023 11:06:11" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="N" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="N" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="65" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817905" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="110" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[dd/mm/yyyy hh:mi:ss]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="IE_IMPRIMI_SUSPENSOS" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Imprimi suspenso" DS_VALOR_PARAMETRO="S,N" DT_ATUALIZACAO="31/08/2023 11:05:04" IE_FORMA_APRESENT="cb" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="N" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="VARCHAR2" IE_TIPO_IN="N" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="90" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817907" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="255" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="N" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[]]></DS_MASCARA>
+</registro>
+        <registro CD_DOMINIO="" CD_PARAMETRO="DT_INICIAL" DS_ALIAS="" DS_MASCARA_BKP="" DS_OBSERVACAO="" DS_PARAMETRO="Data de inicio do dia" DS_VALOR_PARAMETRO="" DT_ATUALIZACAO="31/08/2023 11:07:16" IE_FORMA_APRESENT="ed" IE_FORMA_PASSAGEM="P" IE_MULTI_LINHA="N" IE_OBRIGATORIO="N" IE_ORIGEM_INFORMACAO="U" IE_TIPO_ATRIBUTO="DATE" IE_TIPO_IN="N" NM_USUARIO="UNI8647" NR_LINHA="" NR_SEQ_APRESENT="64" NR_SEQ_LOCALIZAR="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="2817908" QT_DESLOC_DIREITA="" QT_DESLOC_DIREITA_HTML="" QT_TAMANHO_CAMPO="110" QT_TAM_BYTE="" QT_TAM_SPAN="" VL_PADRAO="" VL_PADRAO_TESTE="" >
+          <DS_SQL><![CDATA[]]></DS_SQL>
+>
+          <DS_MASCARA><![CDATA[dd/mm/yyyy hh:mi:ss]]></DS_MASCARA>
+</registro>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_FUNCAO">
+      <campos> 
+        <campo nm_atributo="CD_FUNCAO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CONFIGURAR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_EXIGE_PERFIL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_IMPRIMIR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LIBERADO_CLIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_LOGO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="QT_COPIA" ie_tipo_atributo="NUMBER"/>
+      </campos>
+      <registros>
+        <registro CD_FUNCAO="281" DT_ATUALIZACAO="14/03/2025 17:31:45" IE_CONFIGURAR="N" IE_EXIGE_PERFIL="S" IE_IMPRIMIR="S" IE_LIBERADO_CLIENTE="S" IE_LOGO="S" NM_USUARIO="UNI12063" NR_SEQ_RELATORIO="2642851" QT_COPIA="1" />
+        <registro CD_FUNCAO="2314" DT_ATUALIZACAO="07/08/2024 09:06:17" IE_CONFIGURAR="N" IE_EXIGE_PERFIL="S" IE_IMPRIMIR="S" IE_LIBERADO_CLIENTE="S" IE_LOGO="S" NM_USUARIO="UNI12063" NR_SEQ_RELATORIO="2642851" QT_COPIA="1" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_FUNCAO_REGRA_RELAT">
+      <campos> 
+        <campo nm_atributo="CD_ESTABELECIMENTO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_REGRA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_SQL_VALIDACAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_ETIQUETA">
+      <campos> 
+        <campo nm_atributo="DS_CAMPOS_IDENT_PACIENTE" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_CAMPOS_SENSIVEIS" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_IMPRESSORA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_CONTEUDO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_RELATORIO_DOCUMENTACAO">
+      <campos> 
+        <campo nm_atributo="CD_DOCUMENTACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="CD_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBJETIVO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DS_OBSERVACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_CLASSIFICACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_TIPO_CLASSIFICACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_ORDEM_SERV" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQ_RELATORIO" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NM_PF_SOLIC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_PF_CRIADOR" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="827521" CD_PF_SOLIC="" DS_OBJETIVO="Relatório adaptado e customizado para gerar a partir do CPOE, considerando data da prescrição" DS_OBSERVACAO="*Banda Quebra foi desabilitada pois a mesma estava imprimindo o relatório mesmo sem dados 
+*O Script do relatório possui uma tabela utilizada na CPOE para poder carregar automaticamente os campos e preencher no parâmetros
+* Relatório Oficial para utilizar no CPOE" DT_ATUALIZACAO="31/08/2023 20:16:25" DT_ATUALIZACAO_NREC="31/08/2023 20:11:47" DT_CLASSIFICACAO="31/08/2023 00:00:00" IE_TIPO_CLASSIFICACAO="A" NM_USUARIO="UNI8647" NM_USUARIO_NREC="UNI8647" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="77" NM_PF_SOLIC="" NM_PF_CRIADOR="Rodrigo Maderson Alves Rodrigues" />
+        <registro CD_DOCUMENTACAO="" CD_PF_CRIADOR="11637837" CD_PF_SOLIC="" DS_OBJETIVO="Ajustar a data de liberação da prescrição para trazer a data correta dos itens liberados na precrição.
+Obs: O Campo "Dt Liberação" corresponde a data da liberação da Prescrição e não do item salvo no CPOE" DS_OBSERVACAO="Foi incluído no script do cabeçalho o as seguintes linha de comando:
+
+-From - 
+table(lista_pck.obter_lista(cpoe_obter_seq_anterior_rel(:nr_atendimento,
+             'M',:ds_imprimi_medicamento,:ie_liberacao))) b
+
+-Where-
+and ((&ds_imprimi_medicamento <> 'N') AND(b.nr_registro = cpm.nr_sequencia))
+" DT_ATUALIZACAO="23/01/2025 11:29:00" DT_ATUALIZACAO_NREC="23/01/2025 11:29:00" DT_CLASSIFICACAO="23/01/2025 00:00:00" IE_TIPO_CLASSIFICACAO="I" NM_USUARIO="UNI120960" NM_USUARIO_NREC="UNI120960" NR_SEQ_ORDEM_SERV="" NR_SEQ_RELATORIO="2642851" NR_SEQUENCIA="535" NM_PF_SOLIC="" NM_PF_CRIADOR="Cesar Augusto Pinheiro Piro" />
+      </registros>
+    </Tabela>
+    <Tabela nm_tabela="W_BANDA_RELAT_VARIAVEL">
+      <campos> 
+        <campo nm_atributo="DS_VALOR_INICIAL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="DT_ATUALIZACAO" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="DT_ATUALIZACAO_NREC" ie_tipo_atributo="DATE"/>
+        <campo nm_atributo="IE_CLASSE_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="IE_OPERACAO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_USUARIO_NREC" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NM_VARIAVEL" ie_tipo_atributo="VARCHAR2"/>
+        <campo nm_atributo="NR_SEQ_BANDA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="NR_SEQUENCIA" ie_tipo_atributo="NUMBER"/>
+        <campo nm_atributo="DS_EXPRESSAO" ie_tipo_atributo="VARCHAR2"/>
+      </campos>
+      <registros>
+      </registros>
+    </Tabela>
+  </Tabelas>
+</Relatorios>
